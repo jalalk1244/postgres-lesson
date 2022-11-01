@@ -9,7 +9,7 @@ cursor = connection.cursor()
 # Query 1 - select all records from the "Artist" table
 # cursor.execute('SELECT * FROM "Artist"')
 
-# # Query 2 - select only the "Name" column form the "Artist" table
+# Query 2 - select only the "Name" column form the "Artist" table
 # cursor.execute('SELECT "Name" FROM "Artist"')
 
 # Query 3 - select only "Queen" from the "Artist" table
